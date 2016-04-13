@@ -2,4 +2,8 @@
   <component name="CodeStyleSchemesUIConfiguration">
     <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/gitrepos/java-intellij-conf.xml" />
   </component>
+  <component name="JavaFxSettings">
+    <option name="pathToSceneBuilder" value="$USER_HOME$/AppData/Local/SceneBuilder/SceneBuilder.exe" />
+    <option name="myPathToSceneBuilder" value="$USER_HOME$/AppData/Local/SceneBuilder/SceneBuilder.exe" />
+  </component>
 </application>
